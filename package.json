@@ -1,0 +1,12 @@
+{
+  "name": "email-parser",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "@google/generative-ai": "^0.17.0",
+    "dotenv": "^16.4.5",
+    "llamaai": "^1.0.4"
+  }
+}
